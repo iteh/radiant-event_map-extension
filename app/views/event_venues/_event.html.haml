@@ -11,7 +11,7 @@
   
     %p.date
       = event.summarize_period
-      at 
+      = t('event_map.at')
       = link_to event.event_venue.title + '.', event.event_venue.url, :class => 'location'
       %br
       = event.short_description

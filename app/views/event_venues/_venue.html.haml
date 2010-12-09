@@ -5,7 +5,7 @@
         = render :partial => 'event', :object => events.first
       - else
         %h3
-          Events at
+          = t('event_map.page.events_at')
           = link_to venue.title, venue.url
         %ul
           - remainder = events.slice!(4, 10000)
@@ -16,11 +16,11 @@
               - else
                 %span.event
                   = event.title
-              on 
+              = t('event_map.on')
               = event.date
           - if remainder && remainder.any?
             %li
-              and 
+              = t('event_map.and')
               = remainder.length
-              more events...
+              = t('event_map.page.more_events')
           

@@ -2,11 +2,11 @@
   - home = Page.find_by_parent_id(nil)
   = link_to home.breadcrumb, home.url
   \&gt;
-  = link_to "calendar", calendar_url
+  = link_to t('event_map.calendar'), calendar_url
   \&gt;
 
 - content_for :title do
-  Events
+  = t('event_map.events')
   = list_description
 
 - content_for :faceting do
