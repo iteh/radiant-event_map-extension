@@ -8,10 +8,10 @@ en:
       calendar: "calendar"
       events: "Events"
       at: "at"
-    page:
-      view_as: "view as"
-      stay_up_to_date: "stay up to date"
-      rss: "RSS"
-      calendar_feed: "calendar feed"
-      events_at: "Events at"
-      more_events: "more events..."
+      page:
+        view_as: "view as"
+        stay_up_to_date: "stay up to date"
+        rss: "RSS"
+        calendar_feed: "calendar feed"
+        events_at: "Events at"
+        more_events: "more events..."

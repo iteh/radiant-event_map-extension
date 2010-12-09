@@ -1,13 +1,13 @@
 ---
 de:
   event_map:
-      or: "oder"
-      map: "Karte"
-      on: "auf"
-      and: "und"
-      calendar: "Kalender"
-      events: "Veranstaltungen"
-      at: "am"
+    or: "oder"
+    map: "Karte"
+    on: "auf"
+    and: "und"
+    calendar: "Kalender"
+    events: "Veranstaltungen"
+    at: "am"
     page:
       view_as: "anzeigen als"
       stay_up_to_date: "am Laufenden bleiben"
