@@ -7,11 +7,11 @@ de:
     and: "und"
     calendar: "Kalender"
     events: "Veranstaltungen"
-    at: "am"
+    at: "im"
     page:
       view_as: "anzeigen als"
       stay_up_to_date: "am Laufenden bleiben mit"
       rss: "RSS"
       calendar_feed: "Kalender Feed"
-      events_at: "Veranstaltungen am"
+      events_at: "Veranstaltungen im"
       more_events: "weitere Veranstaltungen ..."
