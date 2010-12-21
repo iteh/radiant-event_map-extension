@@ -3,7 +3,7 @@ de:
   event_map:
     or: "oder"
     map: "Karte"
-    on: "auf"
+    onn: ", am "
     and: "und"
     calendar: "Kalender"
     events: "Veranstaltungen"
@@ -15,4 +15,3 @@ de:
       calendar_feed: "Kalender Feed"
       events_at: "Veranstaltungen im"
       more_events: "weitere Veranstaltungen ..."
-      on: ", am "

@@ -3,7 +3,7 @@ en:
   event_map:
       or: "or"
       map: "map"
-      on: "on"
+      onn: "on"
       and: "and"
       calendar: "calendar"
       events: "Events"
@@ -15,4 +15,3 @@ en:
         calendar_feed: "calendar feed"
         events_at: "Events at"
         more_events: "more events..."
-        on: "on"
